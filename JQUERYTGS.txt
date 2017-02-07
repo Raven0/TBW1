@@ -1,0 +1,64 @@
+repeat
+	paralax(materialize.js)
+	sidenav(materialize.js)
+	scrollspy(materialize.js)
+	waves(materialize.js)
+
+1.index
+	4	repeat
+	5	slider(materialize.js)
+	6	tooltip(materialize.js)
+	7	materialbox(materialize.js)
+	8	aniview(aniview.js)
+
+2.about
+ada modernizr.js
+
+	4	repeat
+	5	collapsible(materialize.js)
+	6	timeline(time.js)
+	7	carousel(materialize.js)
+	8	chartist(chartist.js)
+
+3.game
+	4	repeat
+	5	captionhoverimg(toucheffecr.js)
+	6	hide
+	7	click
+	8	hoverim(dynamics.min.js)
+
+4.career
+	4	repeat
+	5	material_select(pilihanJob)(materialize.js)
+	6	pickdate(materialize.js)
+	7	modal(materialize.js)
+	8	dropdown(materialize.js)
+
+5.contact
+	4	repeat
+	5	trigger (textarea)(materialize.js)
+	6	char Count(materialize.js)
+	7	autocomplete(materialize.js)
+	8	locationPicker
+
+6.community
+	4	repeat
+	5	downcount
+	6	typeit
+	7	sliderPro
+	8	blurItem
+
+7.gamec
+	4	repeat
+	5	sGallery
+	6	tags(materialize.js)
+	7	sosmed
+	8	counter
+
+8.Store
+	4	repeat
+	5	sliderPro(styleN)
+	6	touchhover(styleN)
+	7	owl.carousel(styleN)
+	8	alert
+	

@@ -1,0 +1,505 @@
+body{
+    background-color: black;
+}
+
+.name{
+    font-size: 40px;
+    height: 40px;
+}/*nama di slidenav*/
+.asd{
+    width: 100%; 
+}/*gambarlogo*/
+#slide-out{
+    padding: 20px;
+    background-color: black;
+}/*indikatorpage*/
+/*end of slidenav*/
+
+
+/*start row*/
+.nav{
+    position: fixed;
+    background-color: transparent;
+}/*navindikator*/
+
+#sliderrow{
+    margin-top: 5px;
+    height: 400px;
+}/*gambarslidingatas*/
+
+#hd,#pa{
+    color: red;
+    text-transform: uppercase;
+    font-weight: bold;
+    z-index: 100;
+}/*tulisansliding*/
+
+#sideacc{
+    margin-top: 20%;
+    padding: 28%;
+    width: 80%;
+    height: 70px;
+    margin-left: 10%;
+    color: white;
+}/*navindikator*/
+
+#sideacm{
+    margin-top: 30%;
+    padding: 28%;
+    width: 80%;
+    height: 70px;
+    margin-left: 10%;
+    color: white;
+}/*navindikator*/
+
+#sideacd{
+    margin-top: 0%;
+    width: 80%;
+    margin-left: 10%;
+    color: white;
+}/*navslide*/
+
+#putih{
+    margin-top: 0px;
+    color: white;
+}/*warnaicon*/
+
+.isi{
+    background-color: #212121;
+    width: 100%;
+}/*gabunganantaraslideimg&3grid*/
+
+.gridding{
+    width: 80%;
+    margin-left: 10%;
+    text-align: center;
+}/*paragraf3grid*/
+
+footer{
+    margin-bottom: 0px;
+}
+
+.con{
+    margin: 0px;
+}/*rowutama*/
+
+#colapz{
+    background-color:#212121 ;
+    color: white;
+}/*isidaricolaps*/
+
+.toc{
+    position: fixed;
+    margin-top: 20%;
+}/*tableofcontent*/
+
+.cardd{
+    margin: 0px;
+    height: 500px;
+}/*2cardbawah*/
+
+#coll{
+    height: 600px;
+    max-height: 600px;
+    margin-bottom: 10px;
+}
+
+.collapsible-header{
+    padding: 0px;
+}
+
+.collapsible{
+    border-color: black;
+}
+#paralaxLOW{
+    width: 100%;
+    height: 300px;
+    padding: 10px;
+}
+#paralax{
+    z-index: 100;
+    width: 100%;
+    height: 400px;
+}
+
+#paralax1{
+    z-index: 100;
+    width: 100%;
+    height: 400px;
+    margin: 10px 0px 10px 0px;
+}
+
+#paralax2{
+    z-index: 100;
+    width: 100%;
+    height: 500px;
+    margin: 10px 0px 10px 0px;
+}
+
+.gridding1{
+    width: 100%;
+    margin-left: 10%;
+    text-align: center;
+}/*paragraf3gridabout*/
+
+.carousel img{
+    margin 0px;
+}
+
+.form{
+    background-color: darkred;
+    color: white;
+    margin-top: 10px;
+}
+
+.aniview{
+    margin: 0px;
+    padding: 0% 0% 0% 10%;
+}
+
+.aniview img{
+    margin: 10px 5px 10px 5px;
+    float: left;
+}
+
+.chartt{
+    height: 350px;
+    width: 100%;
+}
+
+.fasd{
+    width: 100%;
+}
+.ct-chart{
+    height: 300px;
+    stroke: white;
+}
+
+.descript{
+    width: 35%;
+    height: 100%;
+    position: inherit;
+    top: 40%;
+    left: 53%;
+}
+
+.hitam{
+    background-color: black;
+}
+
+.jarak{
+    margin-top: 50px;
+}
+
+#paralaxUP{
+    height: 700px;
+}
+
+#zindex{
+    z-index: 100;
+}
+
+#lowindex{
+    z-index: 10;
+}
+
+.concard{
+    height: 630px;
+    max-height: 630px;
+}
+
+.reddsih{
+    background-color: darkred;
+    width: 100%;
+    height: 570px;
+}
+
+#us5{
+    margin: 10px 0px 0px 0px ;
+}
+
+.fkanan{
+    width: 80%;
+    margin-left: 100px;
+    color: white;
+}
+
+/*countdowntime*/
+ul.countdown {
+    list-style: none;
+    padding: 0;
+    display: block;
+    text-align: center;
+}
+ul.countdown li {
+    display: inline-block;
+}
+ul.countdown li span {
+    font-size: 80px;
+    font-weight: 300;
+    line-height: 80px;
+}
+ul.countdown li.seperator {
+    font-size: 80px;
+    line-height: 70px;
+    vertical-align: top;
+}
+ul.countdown li p {
+    color: red;
+    font-size: 14px;
+}
+.countdowntm{
+    height: 650px;
+    padding-top: 20px;
+    background-image: url(../img/maxresdefault.jpg)
+}
+
+#paralaxCom{
+    height: 550px;
+}
+
+.sliderPR{
+    color: white;
+    width: 100%;
+    background: black;
+    margin-top: 20px;
+}
+
+.slider-pro {
+    font-family: 'Open Sans', Arial;
+}
+/* Example 5 */
+
+#example5 .sp-thumbnail-image-container {
+	width: 100px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+}
+
+#example5 .sp-thumbnail-image {
+	height: 100%;
+}
+
+#example5 .sp-thumbnail-text {
+	width: 170px;
+    float: right;
+    padding: 8px;
+    background-color: transparent;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+#example5 .sp-thumbnail-title {
+	margin-bottom: 5px;
+	text-transform: uppercase;
+	color: #f0f0f0;
+}
+
+#example5 .sp-thumbnail-description {
+	font-size: 14px;
+	color: #f0f0f0;
+}
+
+@media (max-width: 500px) {
+	#example5 .sp-thumbnail {
+		text-align: center;
+	}
+
+	#example5 .sp-thumbnail-image-container {
+		display: none;
+	}
+
+	#example5 .sp-thumbnail-text {
+		width: 120px;
+	}
+
+	#example5 .sp-thumbnail-title {
+		font-size: 12px;
+		text-transform: uppercase;
+	}
+
+	#example5 .sp-thumbnail-description {
+		display: none;
+	}
+}
+
+main{
+    height: 500px;
+    background-color: darkred;
+    margin: 0px;
+}
+
+.blak{
+    background-color: black;
+    padding: 20px 30px 10px 30px;
+}
+
+
+/*blur*/
+.ib-container{
+	position: relative;
+	width: 800px;
+	margin: 30px auto;
+	display: block;
+}
+.ib-container:before,
+.ib-container:after {
+    content:"";
+    display:table;
+}
+.ib-container:after {
+    clear:both;
+}
+.ib-container article{
+	display: block;
+	width: 350px;
+	height: 440px;
+	background: #f0f0f0;
+	cursor: pointer;
+	float: left;
+	border: 10px solid #f0f0f0;
+	text-align: left;
+	text-transform: none;
+	margin: 20px;
+	z-index: 1;
+	-webkit-backface-visibility: hidden;
+	box-shadow: 
+		0px 0px 0px 10px rgba(255,255,255,1), 
+		1px 1px 3px 10px rgba(0,0,0,0.2);
+	-webkit-transition: 
+		opacity 0.4s linear, 
+		-webkit-transform 0.4s ease-in-out, 
+		box-shadow 0.4s ease-in-out;
+	-moz-transition: 
+		opacity 0.4s linear, 
+		-moz-transform 0.4s ease-in-out, 
+		box-shadow 0.4s ease-in-out;
+	-o-transition: 
+		opacity 0.4s linear, 
+		-o-transform 0.4s ease-in-out, 
+		box-shadow 0.4s ease-in-out;
+	-ms-transition: 
+		opacity 0.4s linear, 
+		-ms-transform 0.4s ease-in-out, 
+		box-shadow 0.4s ease-in-out;
+	transition: 
+		opacity 0.4s linear, 
+		transform 0.4s ease-in-out, 
+		box-shadow 0.4s ease-in-out;
+
+}
+/* Hover Style for all the items: blur, scale down*/
+.ib-container article.blur{
+	box-shadow: 0px 0px 20px 10px rgba(255,255,255,1);
+	-webkit-transform: scale(0.9);
+	-moz-transform: scale(0.9);
+	-o-transform: scale(0.9);
+	-ms-transform: scale(0.9);
+	transform: scale(0.9);
+	opacity: 0.7;
+}
+.ib-container article.blur h4{
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);
+	color: rgba(0, 0, 0, 0);
+	opacity: 0.5;
+}
+.ib-container article.blur img{
+	text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.9);
+	color: rgba(0, 0, 0, 0);
+	opacity: 0.5;
+}
+/* Hover Style for single item: scale up */
+.ib-container article.active{
+	-webkit-transform: scale(1.05);
+	-moz-transform: scale(1.05);
+	-o-transform: scale(1.05);
+	-ms-transform: scale(1.05);
+	transform: scale(1.05);
+	box-shadow: 
+		0px 0px 0px 10px rgba(255,255,255,1), 
+		1px 11px 15px 10px rgba(0,0,0,0.4);
+	z-index: 100;	
+	opacity: 1;
+}
+.ib-container article.active h3 a,
+.ib-container article.active header span,
+.ib-container article.active p{
+	opacity; 1;
+}
+
+.ngetikse{
+    padding: 0px 10% 0px 35%;
+}
+
+.type-it{
+    font-size: 50px;
+    font-weight: bold;
+    color: white;
+}
+
+.vidi{
+    margin-top: 20px;
+    height: 500px;
+    background-color: darkred;
+    color: white;
+}
+
+#exPRO{
+    margin-top: 40px;
+    background-color: darkred;
+    color: white;
+}
+
+#exPROz{
+    background-color: white;
+    color: black;
+    margin-top: 10px;
+}
+
+.lab{
+    position: fixed;
+}
+
+.righto,.lefto{
+    background-color:#212121;
+    margin-top: 20px;
+    height:600px;
+}
+
+.botto{
+    background-color:#212121;
+    margin-top: 0px;
+}
+
+#owl-demo .item img{
+    display: block;
+    width: 100%;
+    height: 500px;
+}
+
+.my-class{
+   background: #304CD8;
+   background: -webkit-linear-gradient(left, #304CD8 0%, #9F3762 100%);
+   background: -ms-linear-gradient(left, #304CD8 0%, #9F3762 100%);
+   background: linear-gradient(to right, #304CD8 0%, #9F3762 100%);
+   color: #fff;
+   font-size: 30px;
+   padding: 35px;
+   text-align: center;
+}
+
+#kanaan{
+    color: white;
+    margin-top: 20px;
+    background-color: darkred;
+    height: 500px;
+}
+
+#imgkanan{
+    margin-top: 40px;
+}
+
+#imaag{
+    height: 200px;
+}
